@@ -25,6 +25,10 @@
   gap: 0.5rem;
 }
 
+.main a:hover {
+  color: #040068;
+}
+
 .description p {
   position: relative;
   margin: 0;

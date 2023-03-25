@@ -1,0 +1,14 @@
+.navbar-container {
+    padding: 5px;
+}
+
+.navbar-container a {
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.active{
+    color: #0070f3;
+    text-decoration: underline;
+}
